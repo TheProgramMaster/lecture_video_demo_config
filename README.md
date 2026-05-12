@@ -1,11 +1,19 @@
 # Lecture Demo 
 
-I created this for lecture demo
+I created this for very very cool lecture demo
 
 ## Additional Comments
 
 I think this is very cool
 
-# Item 1
-# Item 2
-# Item 3
+* Item 1
+* Item 2
+* Item 3
+
+Numbered list
+
+1. First Item
+2. Second Item
+3. Third Item
+
+I absolutely love Git!
